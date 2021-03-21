@@ -19,5 +19,5 @@ TODO:
 - [ ] Go into UNI and boot into Ubuntu see how many nodes I can add (cant do remotely)
 - [ ] Test speed increase with varying node numbers
 
-Currently DDP does not work on Windows so when ill have to go in to try this on the computers ....... to be continued.  
+Currently DDP does not work on Windows so i'll have to go in to try this on the computers ....... to be continued.  
 
